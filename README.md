@@ -4,7 +4,7 @@
 This tutorial is a walk through of VirtualBox installation on Windows 10 Pro host. Visit https://www.virtualbox.org/wiki/Downloads website to download the installer.
 <br />
 
-<h2>Environment Used </h2>
+<h2>Environment Used</h2>
 
 - <b>Windows 10 Pro</b> (22H2)
 <p align="center">
