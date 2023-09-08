@@ -11,6 +11,14 @@ This tutorial is a walk through of VirtualBox installation on Windows 10 Pro hos
 <br/>
 <img src="https://i.imgur.com/MOv9hMj.jpg" height="40%" width="40%" alt="Device Specification"/>
 
+<h2>Program installation:</h2>
+
+<p align="center">
+Run the installer <br/>
+<img src="https://i.imgur.com/MOv9hMj.jpg" height="40%" width="40%" alt="Device Specification"/>
+<br />
+<br />
+
 <h2>Program walk-through:</h2>
 
 <p align="center">
