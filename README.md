@@ -8,16 +8,45 @@ This tutorial is a walk through of VirtualBox installation and how-to on Windows
 
 - <b>Windows 10 Pro</b> (22H2)
 <p align="center">
+<img src="https://i.imgur.com/ouMoLz0.jpg" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<img src="https://i.imgur.com/MOv9hMj.jpg" height="40%" width="40%" alt="Device Specification"/>
+<p align="center">
+ Motherboard virtualization supported and enabled<br/>
+<img src="https://i.imgur.com/SjjO4vV.png" height="40%" width="40%" alt="Virtualization Enabled"/>
+<br/>
 
+ 
 <h2>Program installation:</h2>
 
 <p align="center">
-Run the installer <br/>
-<img src="https://i.imgur.com/MOv9hMj.jpg" height="40%" width="40%" alt="Device Specification"/>
+Run the installer:<br/>
+<img src="https://i.imgur.com/LjQWujF.png" height="15%" width="15%" alt="Run installer"/>
 <br />
+Start of installation, click Next button:<br />
+<img src="https://i.imgur.com/h0JlwqQ.png" height="40%" width="40%" alt="Run installer"/>
 <br />
+Click Next button to proceed with default settings:<br />
+<img src="https://i.imgur.com/17zI2vT.png" height="40%" width="40%" alt="Run installer"/>
+<br />
+Click Yes button to install Oracle VM Virtualbox Networking feature:<br />
+<img src="https://i.imgur.com/s2LgB3z.png" height="40%" width="40%" alt="Run installer"/>
+<br />
+Click Yes button to install Python Core dependencies:<br />
+<img src="https://i.imgur.com/yRzm7lp.png" height="40%" width="40%" alt="Run installer"/>
+<br />
+Click Install button to begin the installation:<br />
+<img src="https://i.imgur.com/xewkZ42.png" height="40%" width="40%" alt="Run installer"/>
+<br />
+Let it do it's thing:<br />
+<img src="https://i.imgur.com/auTZc1z.png" height="40%" width="40%" alt="Run installer"/>
+<br />
+Installation is done, Click Finish button to exit the setup wizard:<br />
+<img src="https://i.imgur.com/KifDEWM.png" height="40%" width="40%" alt="Run installer"/>
+<br />
+Virtualbox is ready to host your preferred operating system:<br />
+<img src="https://i.imgur.com/wlOPsJz.png" height="60%" width="60%" alt="Run installer"/>
+<br />
+
 
 <h2>Program walk-through:</h2>
 
