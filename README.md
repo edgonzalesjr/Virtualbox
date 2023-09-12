@@ -51,8 +51,10 @@ Virtualbox is ready to host your preferred operating system:<br />
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Device Specification: <br/>
-<img src="https://i.imgur.com/MOv9hMj.jpg" height="40%" width="40%" alt="Device Specification"/>
+ Now let's host some operating system, in this case we'll try Ubuntu Desktop.
+<p align="center">
+While Virtualbox is running: <br/>
+<img src="https://i.imgur.com/wlOPsJz.png" height="60%" width="60%" alt="Run installer"/>
 <br />
 <br />
 Select the disk:  <br/>
