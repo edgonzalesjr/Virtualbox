@@ -53,12 +53,12 @@ Virtualbox is ready to host your preferred operating system:<br />
 <p align="center">
  Now let's host some operating system, in this case we'll try Ubuntu Desktop.
 <p align="center">
-While Virtualbox is running: <br/>
+While Virtualbox is running, Click the New button: <br/>
 <img src="https://i.imgur.com/wlOPsJz.png" height="60%" width="60%" alt="Run installer"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+For a Name, will give it Ubuntu Desktop 22, Locate the ISO file on the ISO image option, Type is Linux, Version is Ubuntu (64-bit): <br/>
+<img src="https://i.imgur.com/Z9qm9ri.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Enter the number of passes: <br/>
