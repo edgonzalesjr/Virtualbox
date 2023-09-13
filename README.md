@@ -57,28 +57,30 @@ While Virtualbox is running, Click the New button: <br/>
 <img src="https://i.imgur.com/wlOPsJz.png" height="60%" width="60%" alt="Run installer"/>
 <br />
 <br />
-For a Name, will give it *Ubuntu Desktop 22*, Locate the ISO file on the ISO image option, Type is Linux, Version is Ubuntu (64-bit), then click the Next button: <br/>
+For a Name, will give it Ubuntu Desktop 22, Locate the ISO file on the ISO image option, Type is Linux, Version is Ubuntu (64-bit), Tick the Skip unattended installation, then Click the Next button: <br/>
 <img src="https://i.imgur.com/Z9qm9ri.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+For the Hardware, well give 4GB of Memory and 2 of Processors, then Click the Next button: <br/>
+<img src="https://i.imgur.com/3BFV0iu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Will give 60GB for Virtual Hard disk, then Click the Next button: <br/>
+<img src="https://i.imgur.com/eaQZEup.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Review the configuration that you have been chosen, then Click the Finish button to exit the wizard:  <br/>
+<img src="https://i.imgur.com/TTmgNDn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br />
+<br />
+The newly created Virtual Machine have been added in the left part of the application, Click the Start button to run the Ubuntu installation: <br/>
+<img src="https://i.imgur.com/R8y2fAJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+You may then continue the installation: <br/>
+<img src="https://i.imgur.com/hfxabb0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
