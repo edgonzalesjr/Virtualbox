@@ -57,7 +57,7 @@ While Virtualbox is running, Click the New button: <br/>
 <img src="https://i.imgur.com/wlOPsJz.png" height="60%" width="60%" alt="Run installer"/>
 <br />
 <br />
-For a Name, will give it Ubuntu Desktop 22, Locate the ISO file on the ISO image option, Type is Linux, Version is Ubuntu (64-bit): <br/>
+For a Name, will give it *Ubuntu Desktop 22*, Locate the ISO file on the ISO image option, Type is Linux, Version is Ubuntu (64-bit), then click the Next button: <br/>
 <img src="https://i.imgur.com/Z9qm9ri.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
